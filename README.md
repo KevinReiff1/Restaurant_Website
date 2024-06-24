@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was a website for a mock restaurant, created as part of a final project for CMPT 221L, Software Development II. The website includes several key features and pages, designed to provide a comprehensive online presence for a restaurant.
+This project was a website for a mock restaurant, created as part of a final project for my Sophomore year class CMPT 221L, Software Development II. The website includes several key features and pages, designed to provide a comprehensive online presence for a restaurant.
 
 ## Features (Some didn't need to be fully fleshed out due to time constraints)
 
